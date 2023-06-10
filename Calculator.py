@@ -10,8 +10,11 @@ if operator == "+":
 elif operator == "-":
     print(f"The Subtraction of the Number {value1} and {value2} is {value1 - value2}")
 elif operator == "/":
-    print(f"The Division of the Number {value1} and {value2} is {value1 / value2}")
+    if value2 == 0:
+         print("Cannot divide by zero")
+    else:
+        print(f"The Division of the Number {value1} and {value2} is {value1 / value2}")
 elif operator == "*":
-    print(f"The Multiplication of the Number {value1} and {value2} is {value1 * value2}")
+        print(f"The Multiplication of the Number {value1} and {value2} is {value1 * value2}")
 else:
     print("Error! Operator not found")
