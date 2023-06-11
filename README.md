@@ -2,7 +2,7 @@
 
 ## Short Description
 
-A simple **Calculator** Coded using Various languages  while will be added one by one
+A simple **Calculator** Coded using Various languages. It will be added one by one
 ## How it Works?
 
 It works by Getting inputs from the user and then calculate the result using the operator Which was given by the user using an input function
