@@ -3,6 +3,7 @@
 ## Short Description
 
 A simple **Calculator** Coded using Python
+
 ## How it Works?
 
 It works by Getting inputs from the user and then calculate the result using the operator Which was given by the user using an input function
